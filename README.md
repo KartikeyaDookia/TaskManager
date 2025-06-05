@@ -10,7 +10,6 @@ A simple and user-friendly **Task Manager Android App** built using **Java** in 
 - ❌ Delete tasks once completed  
 - 📋 View the list of current tasks  
 - 💾 Local data persistence using **SQLite** or **SharedPreferences**  
-- 🌓 Optional Light/Dark mode support  
 
 ---
 
